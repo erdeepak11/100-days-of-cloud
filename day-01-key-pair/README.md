@@ -1,6 +1,6 @@
 ## Day 1 - Creating an EC2 key pair (AWS)
 
-##Task overview
+###Task overview
 The goal of this task was to create an EC2 key pair in AWS as part of the initial steps toward migrating infrastructure to the cloud. This key pair will be used later to securely access EC2 instances.
 
 ### What the Task Was About
