@@ -1,4 +1,3 @@
-
 ## Day 1 - Creating an EC2 key pair (AWS)
 
 ##Task overview
